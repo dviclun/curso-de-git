@@ -1,3 +1,5 @@
 <?php
-	@print "Hola {$args[1]}\n";
+	//Comentario
+	$nombre = isset($argv[1]) ? $argv[1] : "Mundo";
+	@print "Hola {$argv[1]}\n";
 ?>
