@@ -1,4 +1,4 @@
-# Curso de GIT octubre, 2023
+# Curso de GIT octubre
 
 Este proyecto contiene el curso de introducción a GIT en el IES Trassierra.
 
